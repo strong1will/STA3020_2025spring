@@ -1,0 +1,6 @@
+1. admissibility: 同一种点估计，在任意参数下，不存在一种完全比他好的估计。(注意这个概念相当重要，再之后还会提到）
+2. rao-blackwell
+3. entropy & infomation matrix
+4. CR lower bound
+5. unbiasedness & UMVUE (3 methods: U-estimate/ Lehmann-Scheffe/CR Lowerbound): midterm 必考，通常用LS thm，泰勒展开或者是求导。
+6. Bias & Variance trade off
