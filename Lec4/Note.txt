@@ -3,3 +3,5 @@
 3. Quasi Likelihood：AN property 比较重要。Lec Notes上好像在这里有typo。
 
 这一章主要要掌握AN property的求导过程，主要思想就是First Order Taylor Expansion（ Mean Value Thm). 考试会考，我觉得属于比较难的题目
+
+这一章没有作业，作业和Lec5一起
