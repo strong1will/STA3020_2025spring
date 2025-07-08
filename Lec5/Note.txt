@@ -1,0 +1,5 @@
+1. Profile Likelihood
+2. Wilks Thm and Proof: Proof 比较 complicated，掌握基本内容即可。
+3. LRT：wilks thm的应用：有一个contingency table的case比较有趣，会用到profile Likelihood。
+4. Generalized Profile Likelihood and Its property。
+5. Least Favorable Curve:和后面会讲到的Least Favarable Distribution。
