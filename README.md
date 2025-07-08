@@ -8,3 +8,5 @@ Based on instructor's notes.
 参考资料： DUKE STA532/732, ZJU Mathematical statistics, PKU, CMU （我想在github上或者google上都可以查到，主体和DUKE732很像，少了一些贝叶斯的内容）
 
 另外，keener的theoretical statistics也值得推荐，讲了更多关于现代统计的内容。
+
+由于课程比较理论，整体难度较大（尤其是作业），但是考试还是相对友好，给分好，老师讲课清晰，回答耐心。
