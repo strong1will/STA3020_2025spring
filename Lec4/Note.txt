@@ -1,0 +1,5 @@
+1. Review for past MLE and its CAN property.
+2. Composite Likelihood:这里主要是用牺牲部份准确性（通常是假设独立），来获取计算上的便利，由于牺牲的形式比较arbitrary，我那个时候只考了概念。
+3. Quasi Likelihood：AN property 比较重要。Lec Notes上好像在这里有typo。
+
+这一章主要要掌握AN property的求导过程，主要思想就是First Order Taylor Expansion（ Mean Value Thm). 考试会考，我觉得属于比较难的题目
