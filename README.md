@@ -10,3 +10,5 @@ Based on instructor's notes.
 另外，keener的theoretical statistics也值得推荐，讲了更多关于现代统计的内容。
 
 由于课程比较理论，整体难度较大（尤其是作业），但是考试还是相对友好，给分好，老师讲课清晰，回答耐心。
+
+我后续会逐渐上传latex或者手写版本的note和hw solution。
