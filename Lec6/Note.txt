@@ -1,0 +1,5 @@
+1. Iterative Method:相比后面两者，如果你的迭代次数较大，计算量大，且实际上很可能不减risk。
+2. Jacknife and variants:需要记忆。
+3. Bootstrap:主要是基于重新抽样，用empirical distribution去估计，和机器学习那边的boosting相关联（我上STA3020的时候也上了DDA3020）。
+
+这章的内容我想是整门课程中最简单的，作业和下一次的UMP在一起，我当时比较有趣，是期中成绩resampling求分位数。
