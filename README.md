@@ -1,5 +1,5 @@
 # STA3020_2025spring
-Based on instructor: Jiasheng Shi's notes. 
+Based on instructor's notes. 
 
 课程内容主要是关于频率派的点估计和假设检验，贝叶斯内容涉及较少，主要在最后一章涉及。
 
