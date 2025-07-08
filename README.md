@@ -11,4 +11,4 @@ Based on instructor's notes.
 
 由于课程比较理论，整体难度较大（尤其是作业），但是考试还是相对友好，给分好，老师讲课清晰，回答耐心。
 
-我后续会逐渐上传latex或者手写版本的note和hw solution。
+我后续会逐渐上传latex或者手写版本的note和hw solution。 （选取我认为比较有趣的😊）
