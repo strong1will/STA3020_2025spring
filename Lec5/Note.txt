@@ -3,3 +3,5 @@
 3. LRT：wilks thm的应用：有一个contingency table的case比较有趣，会用到profile Likelihood。
 4. Generalized Profile Likelihood and Its property。
 5. Least Favorable Curve:和后面会讲到的Least Favarable Distribution。
+
+相比较前面几章，这里的idea不是很难，作业应该是比较轻松的一次。
