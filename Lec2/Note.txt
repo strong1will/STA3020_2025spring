@@ -1,0 +1,7 @@
+1. sufficiency
+2. minimal sufficiency
+3. ancillary
+4. completeness
+5. basu's thm: ancillary stat independent with complete stat
+
+这一章所有的概念很重要，这里的定义和定理会在后面反复出现。
