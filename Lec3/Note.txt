@@ -4,3 +4,5 @@
 4. CR lower bound
 5. unbiasedness & UMVUE (3 methods: U-estimate/ Lehmann-Scheffe/CR Lowerbound): midterm 必考，通常用LS thm，泰勒展开或者是求导。
 6. Bias & Variance trade off
+
+UMVUE注意期中必考，需要熟练掌握相关方法。
